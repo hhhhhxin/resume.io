@@ -1,0 +1,219 @@
+{
+  "id": "4388109",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20478164",
+      "name": "政治",
+      "font_class": "zhengzhi",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "643276",
+      "name": "身高",
+      "font_class": "iconsg",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1523209",
+      "name": "姓名",
+      "font_class": "ziyuan",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "3893828",
+      "name": "籍贯",
+      "font_class": "jiguan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9917164",
+      "name": "姓名",
+      "font_class": "xingming",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "10531659",
+      "name": "GitHub",
+      "font_class": "GitHub",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11983543",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "ea0b",
+      "unicode_decimal": 59915
+    },
+    {
+      "icon_id": "17516131",
+      "name": "电话",
+      "font_class": "dianhua1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "27637167",
+      "name": "电话",
+      "font_class": "dianhua2",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "2019078",
+      "name": "简历",
+      "font_class": "jianli",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "3826836",
+      "name": "电子邮件",
+      "font_class": "dianziyoujian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "3826839",
+      "name": "附件",
+      "font_class": "fujian",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "3826840",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3826842",
+      "name": "健康状况",
+      "font_class": "jiankangzhuangkuang",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "3826851",
+      "name": "学历",
+      "font_class": "xueli",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3876729",
+      "name": "感谢",
+      "font_class": "ganxie",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "3876730",
+      "name": "工作经验",
+      "font_class": "gongzuojingyan",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "3876731",
+      "name": "备注",
+      "font_class": "beizhu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "3876732",
+      "name": "毕业学校",
+      "font_class": "biyexuexiao",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "3876733",
+      "name": "奖励情况",
+      "font_class": "jiangliqingkuang",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "3876735",
+      "name": "个人信息",
+      "font_class": "gerenxinxi",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3876736",
+      "name": "电子邮件",
+      "font_class": "dianziyoujian1",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "3876738",
+      "name": "联系电话",
+      "font_class": "lianxidianhua",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "3876741",
+      "name": "兴趣爱好",
+      "font_class": "xingquaihao",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "3876743",
+      "name": "生日",
+      "font_class": "shengri",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3876745",
+      "name": "自我评价",
+      "font_class": "ziwopingjia",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3876747",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4488858",
+      "name": "附件简历",
+      "font_class": "fujianjianli",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "30955466",
+      "name": "我的",
+      "font_class": "nav-13",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "36469075",
+      "name": "求职简历",
+      "font_class": "qiuzhijianli",
+      "unicode": "1012b",
+      "unicode_decimal": 65835
+    }
+  ]
+}
